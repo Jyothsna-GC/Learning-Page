@@ -11,6 +11,10 @@ a {
     color: green;
 }
 p{
-    color: white;
+    color: rgb(109, 87, 231);
     padding: 10px 0px;
+}
+.secondary {
+    background: none;
+    color: #777;
 }
