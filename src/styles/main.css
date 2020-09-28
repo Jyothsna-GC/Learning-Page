@@ -10,27 +10,30 @@ body {
     body {
         background-color: lightgreen;
     }
+    a {
+        color: rgb(88, 87, 87);
+      }
 }
 @media only screen and (min-width:960px) {
     body {
         background-color: rgb(97, 215, 231);
     }
+    a {
+        color: green;
+      }
 }
 @media only screen and (min-width:1140px) {
     body {
         background-color: rgb(130, 90, 241);
-    }
-@media only screen and (min-width:1140px) {
-    body {
-        color: black;
-    }
+        }
+        a {
+            color: rgb(88,87,87);
+          }
 }
 h2,h3, p,li {
  color: rgb(3, 3, 3); 
 }
-a {
-  color: green;
-}
+
 p{
     color: rgb(109, 87, 231);
     padding: 5px 0px;
