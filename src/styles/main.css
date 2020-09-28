@@ -30,6 +30,9 @@ body {
             color: rgb(88,87,87);
           }
 }
+* {
+    color: red;
+}
 h2,h3, p,li {
  color: rgb(3, 3, 3); 
 }
