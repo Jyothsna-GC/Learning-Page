@@ -2,7 +2,6 @@ body {
     background-color: #bbb8b8;;
     font-family:arial;
 }
-
 /*media queries */
 @media only screen and (max-width: 540px) {
     img{display: none;}
@@ -34,7 +33,6 @@ body {
 h2,h3, p,li {
  color: rgb(3, 3, 3); 
 }
-
 p{
     color: rgb(109, 87, 231);
     padding: 5px 0px;
