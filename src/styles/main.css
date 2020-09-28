@@ -3,12 +3,31 @@ body {
     font-family:arial;
 }
 
+/*media queries */
+@media only screen and (max-width: 540px) {
+    img{ display: none;}
+}
+@media only screen and (min-width:720px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+@media only screen and (min-width:960px) {
+    body {
+        background-color: rgb(97, 215, 231);
+    }
+}
+@media only screen and (min-width:1140px) {
+    body {
+        background-color: rgb(130, 90, 241);
+    }
+}
+
 h2,h3, p,li {
  color: rgb(3, 3, 3); 
 }
-
 a {
-    color: green;
+  color: green;
 }
 p{
     color: rgb(109, 87, 231);
