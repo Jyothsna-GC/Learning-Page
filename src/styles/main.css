@@ -2,7 +2,6 @@ body {
     background: #d4d3d3;;
     font-family:arial;
 }
-
 /*media queries */
 @media only screen and (max-width: 540px) {
     img{display: none;}
@@ -20,10 +19,12 @@ body {
 @media only screen and (min-width:1140px) {
     body {
         background-color: rgb(130, 90, 241);
+    }
+@media only screen and (min-width:1140px) {
+    body {
         color: black;
     }
 }
-
 h2,h3, p,li {
  color: rgb(3, 3, 3); 
 }
