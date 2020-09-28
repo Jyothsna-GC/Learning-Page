@@ -29,9 +29,8 @@ body {
         a {
             color: rgb(88,87,87);
           }
-}
-* {
-    color: red;
+.col-6.header{
+    background-color: white;
 }
 h2,h3, p,li {
  color: rgb(3, 3, 3); 
