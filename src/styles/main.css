@@ -2,6 +2,7 @@ body {
     background: #d4d3d3;;
     font-family:arial;
 }
+
 /*media queries */
 @media only screen and (max-width: 540px) {
     img{display: none;}
@@ -29,8 +30,9 @@ body {
         a {
             color: rgb(88,87,87);
           }
-.col-6.header{
-    background-color: white;
+}
+.col-6.h3 {
+    background-color: oldlace;
 }
 h2,h3, p,li {
  color: rgb(3, 3, 3); 
