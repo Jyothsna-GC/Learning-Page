@@ -1,5 +1,5 @@
 body {
-    background: #d4d3d3;;
+    background-color: #bbb8b8;;
     font-family:arial;
 }
 
@@ -30,9 +30,6 @@ body {
         a {
             color: rgb(88,87,87);
           }
-}
-.col-6.h3 {
-    background-color: oldlace;
 }
 h2,h3, p,li {
  color: rgb(3, 3, 3); 
