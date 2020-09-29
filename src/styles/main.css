@@ -1,5 +1,5 @@
 body {
-    background-color: #bbb8b8;;
+    background-color: #f8e788;
     font-family:arial;
 }
 /*media queries */
@@ -11,7 +11,7 @@ body {
         background-color: lightgreen;
     }
     a {
-        color: rgb(88, 87, 87);
+        color: rgb(3, 3, 3);
       }
 }
 @media only screen and (min-width:960px) {
@@ -27,7 +27,7 @@ body {
         background-color: rgb(130, 90, 241);
         }
         a {
-            color: rgb(88,87,87);
+            color: rgb(3, 3, 3);
           }
 }
 h2,h3, p,li {
